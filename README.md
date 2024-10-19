@@ -10,6 +10,7 @@ Product-Price Sensitivity: A weak negative correlation between product price and
 Customer Retention: Retention rates were low, presenting opportunities to improve customer loyalty through targeted marketing strategies and loyalty programs.
 Seller Performance: A small percentage of sellers contribute to the majority of sales, highlighting the importance of strong seller relationships.
 
+
 Technologies Used
 Python: For data manipulation, analysis, and modeling.
 SQL: To query and extract insights from large datasets.
@@ -17,9 +18,9 @@ Data Visualization: Tools like Matplotlib and Seaborn were used to create visual
 Pandas: For data cleaning and handling.
 Jupyter Notebook: For interactive data analysis and visualizations.
 
+
 Dataset
 The dataset consists of the following files:
-
 customers.csv: Customer demographics.
 sellers.csv: Seller information.
 order_items.csv: Order details.
@@ -28,6 +29,8 @@ payments.csv: Payment method data.
 orders.csv: Order timestamps, status, and other metadata.
 products.csv: Product attributes like category, dimensions, etc.
 reviews.csv: Customer reviews for products.
+
+
 Analysis Focus Areas
 Customer Geography: Distribution of customers across cities and states.
 Sales Performance: Identifying top product categories by revenue and trends over time.

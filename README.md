@@ -5,7 +5,7 @@ Project Overview
 This project analyzes Target's sales operations in Brazil, utilizing a dataset of over 100,000 orders from 2016 to 2018. The analysis aims to extract valuable insights into customer behavior, sales trends, and product performance, and provide actionable recommendations for optimizing Target’s operations in Brazil.
 
 Key Insights
-Installment Payments: Approximately 49.41% of orders were paid via installment plans, indicating a preference for flexible payment methods.
+Installment Payments: Approximately 99.99% of orders were paid via installment plans (including the single payment installment), indicating a preference for flexible payment methods.
 Product-Price Sensitivity: A weak negative correlation between product price and purchase count suggests that price is not a significant factor in determining purchase frequency.
 Customer Retention: Retention rates were low, presenting opportunities to improve customer loyalty through targeted marketing strategies and loyalty programs.
 Seller Performance: A small percentage of sellers contribute to the majority of sales, highlighting the importance of strong seller relationships.
